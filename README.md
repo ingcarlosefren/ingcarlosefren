@@ -11,7 +11,7 @@ My name is Carlos Efren Fernandez Abad. I am a data engineer with experience in 
   * Cloud computing for data engineers
   * Machine learning applications in data engineering
 📫 How to reach me:
-  * Email: cefernandezabadgmail.com
+  * Email: cefernandezabad@gmail.com
   * LinkedIn: www.linkedin.com/in/carlos-efren-fernandez-abad-a72297156
 😄 Pronouns:
   He/Him
