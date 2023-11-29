@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**ingcarlosefren/ingcarlosefren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carlos Efren Fernandez Abad. I am a data engineer with experience in building data pipelines, lambda functions, SQL queries, and managing infrastructure as code in AWS. I am currently working for a technology consulting company.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on building a data pipeline to collect and process data from a variety of sources.
+🌱 I’m currently learning about cloud computing and its applications in data engineering.
+👯 I’m looking to collaborate on projects that involve building data pipelines and using machine learning to solve real-world problems.
+🤔 I’m looking for help with finding new data engineering projects to work on.
+💬 Ask me about:
+  * Data engineering best practices
+  * Cloud computing for data engineers
+  * Machine learning applications in data engineering
+📫 How to reach me:
+  * Email: cefernandezabadgmail.com
+  * LinkedIn: www.linkedin.com/in/carlos-efren-fernandez-abad-a72297156
+😄 Pronouns:
+  He/Him
+⚡ Fun fact:
+  I am a big fan of open-source software and I am always looking for ways to contribute to the open-source community.
